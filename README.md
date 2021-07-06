@@ -9,4 +9,9 @@
 
 ローカル環境において。
 
-# movie-hooked-app
+# URL
+firebase.js, jsfirebaseを用意したうえでデプロイしました。
+https://movie-hooked-app.web.app/
+
+
+
