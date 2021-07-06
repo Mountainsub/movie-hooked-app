@@ -6,11 +6,10 @@
 開発環境：言語 javascript, FW React 　DB コードに記載されたリンク先(オープンソース) https://www.omdbapi.com/?
 内容：検索ボックス内に映画の名前を入力すると関連する映画のポスターを出力するアプリ。
 企画背景：SPAの技術習得のためにQiitaのとあるページで学習しました。
-
-ローカル環境において。
+。
 
 # URL
-firebase.js, jsfirebaseを用意したうえでデプロイしました。
+firebase.js, jsfirebaseを用意したうえでfirebase hostingにてデプロイしました。
 https://movie-hooked-app.web.app/
 
 
